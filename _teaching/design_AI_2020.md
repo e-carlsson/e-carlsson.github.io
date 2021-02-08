@@ -1,5 +1,5 @@
 ---
-title: "Design of AI Systems"
+title: "Teacher Assistant in Design of AI Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/design_AI_2020
