@@ -8,5 +8,4 @@ date: 2020-01-01
 location: "Gothenburg, Sweden"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
 
