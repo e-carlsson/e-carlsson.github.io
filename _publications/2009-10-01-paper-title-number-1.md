@@ -6,5 +6,6 @@ excerpt: 'We present a multi-agent computational approach to partitioning semant
 date: 2020-7-15
 venue: 'PlosOne'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894'
+---
 
 [Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894)
