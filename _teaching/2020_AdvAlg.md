@@ -1,5 +1,5 @@
 ---
-title: "TA Advanced Algorithms"
+title: "Teacher Assistant in Advanced Algorithms"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020_AdvAlg
