@@ -1,5 +1,5 @@
 ---
-title: "TA Algorithms course"
+title: "Teacher Assistant in Algorithms Course"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020_Alg
