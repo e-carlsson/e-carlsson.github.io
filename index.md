@@ -2,122 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# About
 
-There should be whitespace between paragraphs.
+My name is Emil Carlsson and I'm a PhD student in computer science at Chalmers University of Technology. I specialize in machine learning and decision-making under uncertainty, focusing on developing reliable data-driven decision-making systems. My primary research interest lies in reinforcement learning, a computational framework for decision-making under uncertainty. I am supervised by [Devdatt Dubhashi](https://www.chalmers.se/en/staff/Pages/dubhashi.aspx) and co-supervised by [Fredrik D. Johansson](https://www.fredjo.com).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+For an updated list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=VZhBQWQAAAAJ&hl=sv).
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Selected Publications
 
 
-### Definition lists can be used with HTML syntax.
+### Publications 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Emil Carlsson, Devdatt Dubhashi. *Pragmatic reasoning in structured signaling games*. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) , 44, 2022
 
-```
-The final element.
-```
+Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. *Thompson sampling for bandits with clustered arms*. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+
+Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. *Learning approximate and exact numeral systems via reinforcement learning*. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) , 43 2021.
+
+Mikael Kågebäck, Emil Carlsson, Devdatt Dubhashi, Asad Sayeed. *A reinforcement learning approach to efficient communication*. PLoS ONE, 15(7):1–26, 2020.
+
