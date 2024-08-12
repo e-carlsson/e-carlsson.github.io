@@ -89,6 +89,23 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 
 For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
+### Overriding GitHub-generated URLs
+
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+
+1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
 ## Roadmap
 
 See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
