@@ -15,6 +15,17 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 ### Publications 
 
 
+Herman Bergström, Emil Carlsson ̊, Devdatt Dubhashi, Fredrik D. Johansson. Active preference learning for ordering items in- and out-of-sample. Preprint 2024. The first two authors contributed equally. 
+
+Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. *Pure exploration in bandits with linear constraints*. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
+
+Emil Carlsson, Devdatt Dubhashi, *Terry Regier Cultural evolution via iterated learning and communication explains effcient color naming systems*. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.
+
+Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. *Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration* Transactions on Machine Learning Research (TMLR), 2023.
+
+Erik Jergéus, Leo Karlsson Oinonen, Emil Carlsson, and Moa Johansson. *Towards Learning Abstractions via Reinforcement Learning*. 8th International
+Workshop on Artificial Intelligence and Cognition (AIC), 2022.
+
 Emil Carlsson, Devdatt Dubhashi. *Pragmatic reasoning in structured signaling games*. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) , 44, 2022
 
 Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. *Thompson sampling for bandits with clustered arms*. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI), 2021.
