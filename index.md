@@ -30,7 +30,7 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 [Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.
 
-[Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration](https://openreview.net/pdf?id=NNRIGE8bvF). Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. Transactions on Machine Learning Research (TMLR), 2023.
+[Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration](https://openreview.net/pdf?id=NNRIGE8bvF). Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. Transactions on Machine Learning Research (TMLR), 2023. [Code](https://github.com/newtonmwai/fast_treatment_personalization/tree/main/healthy_gym)
 
 [Towards Learning Abstractions via Reinforcement Learning](https://arxiv.org/pdf/2212.13980). Erik Jergéus, Leo Karlsson Oinonen, Emil Carlsson, and Moa Johansson. 8th International
 Workshop on Artificial Intelligence and Cognition (AIC), 2022.
