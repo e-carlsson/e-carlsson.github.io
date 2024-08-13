@@ -18,9 +18,9 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 # Publications 
 
-[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration)
+[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
 
-[Cultural evolution via iterated learning and communication explains efficient color naming systems](https://arxiv.org/pdf/2305.10154). Emil Carlsson and Devdatt Dubhashi and Terry Regier. Preprint 2024. [Code](https://github.com/e-carlsson/iterated-learning-color-naming)
+[Cultural evolution via iterated learning and communication explains efficient color naming systems](https://arxiv.org/pdf/2305.10154). Emil Carlsson and Devdatt Dubhashi and Terry Regier. Preprint 2024. [Code](https://github.com/e-carlsson/iterated-learning-color-naming).
 
 [Identifiable latent bandits: Combining observational data and exploration for personalized healthcare](https://arxiv.org/pdf/2407.16239). Ahmet Zahid Balcıoglu, Emil Carlsson, and Fredrik D. Johansson.  ICML Workshop: Foundations of Reinforcement Learning and Control – Connections and Perspectives, 2024.
 
@@ -28,9 +28,9 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 [Active preference learning for ordering items in- and out-of-sample](https://arxiv.org/pdf/2405.03059). Herman Bergström, Emil Carlsson ̊, Devdatt Dubhashi, Fredrik D. Johansson. Preprint 2024. The first two authors contributed equally. 
 
-[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.
+[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming).
 
-[Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration](https://openreview.net/pdf?id=NNRIGE8bvF). Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. Transactions on Machine Learning Research (TMLR), 2023. [Code](https://github.com/newtonmwai/fast_treatment_personalization/tree/main/healthy_gym)
+[Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration](https://openreview.net/pdf?id=NNRIGE8bvF). Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. Transactions on Machine Learning Research (TMLR), 2023. [Code](https://github.com/newtonmwai/fast_treatment_personalization/tree/main/healthy_gym).
 
 [Towards Learning Abstractions via Reinforcement Learning](https://arxiv.org/pdf/2212.13980). Erik Jergéus, Leo Karlsson Oinonen, Emil Carlsson, and Moa Johansson. 8th International
 Workshop on Artificial Intelligence and Cognition (AIC), 2022.
@@ -41,5 +41,5 @@ Workshop on Artificial Intelligence and Cognition (AIC), 2022.
 
 [Learning approximate and exact numeral systems via reinforcement learning](https://arxiv.org/abs/2105.13857). Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) , 43 2021.
 
-[A reinforcement learning approach to efficient communication.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894) Mikael Kågebäck, Emil Carlsson, Devdatt Dubhashi, Asad Sayeed. PLoS ONE, 15(7):1–26, 2020. [Code](https://github.com/kageback/colorwords)
+[A reinforcement learning approach to efficient communication.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894) Mikael Kågebäck, Emil Carlsson, Devdatt Dubhashi, Asad Sayeed. PLoS ONE, 15(7):1–26, 2020. [Code](https://github.com/kageback/colorwords).
 
