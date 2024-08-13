@@ -18,9 +18,9 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 # Publications 
 
-[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
+[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration)
 
-[Cultural evolution via iterated learning and communication explains efficient color naming systems](https://arxiv.org/pdf/2305.10154). Emil Carlsson and Devdatt Dubhashi and Terry Regier. Preprint 2024. 
+[Cultural evolution via iterated learning and communication explains efficient color naming systems](https://arxiv.org/pdf/2305.10154). Emil Carlsson and Devdatt Dubhashi and Terry Regier. Preprint 2024. [Code](https://github.com/e-carlsson/iterated-learning-color-naming)
 
 [Identifiable latent bandits: Combining observational data and exploration for personalized healthcare](https://arxiv.org/pdf/2407.16239). Ahmet Zahid Balcıoglu, Emil Carlsson, and Fredrik D. Johansson.  ICML Workshop: Foundations of Reinforcement Learning and Control – Connections and Perspectives, 2024.
 
@@ -41,5 +41,5 @@ Workshop on Artificial Intelligence and Cognition (AIC), 2022.
 
 [Learning approximate and exact numeral systems via reinforcement learning](https://arxiv.org/abs/2105.13857). Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) , 43 2021.
 
-[A reinforcement learning approach to efficient communication.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894) Mikael Kågebäck, Emil Carlsson, Devdatt Dubhashi, Asad Sayeed. PLoS ONE, 15(7):1–26, 2020.
+[A reinforcement learning approach to efficient communication.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234894) Mikael Kågebäck, Emil Carlsson, Devdatt Dubhashi, Asad Sayeed. PLoS ONE, 15(7):1–26, 2020. [Code](https://github.com/kageback/colorwords)
 
