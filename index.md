@@ -9,14 +9,19 @@ My name is Emil Carlsson and I'm a PhD student in computer science at Chalmers U
 
 For an updated list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=VZhBQWQAAAAJ&hl=sv).
 
+# PhD Thesis
+[Reinforcement Learning: Efficient Communication and Sample Efficient Learning](/Thesis_Emil_Carlsson_Camera_Ready.pdf)
+
 # Selected Publications
+[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024.
+
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
 
 [Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.
 
-[Thompson sampling for bandits with clustered arms](https://www.ijcai.org/proceedings/2021/305).  Emil Carlsson, Fredrik D. Johansson, Devdatt Dubhashi. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI), 2021.
-
 # Publications 
+
+[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024.
 
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
 
