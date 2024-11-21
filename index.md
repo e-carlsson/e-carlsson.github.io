@@ -21,7 +21,7 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 # Publications 
 
-[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024.
+[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024. [Code](https://github.com/HermanBergstrom/GURO).
 
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
 
@@ -30,8 +30,6 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 [Identifiable latent bandits: Combining observational data and exploration for personalized healthcare](https://arxiv.org/pdf/2407.16239). Ahmet Zahid Balcıoglu, Emil Carlsson, and Fredrik D. Johansson.  ICML Workshop: Foundations of Reinforcement Learning and Control – Connections and Perspectives, 2024.
 
 [Learning Effcient Recursive Numeral Systems via Reinforcement Learning](https://openreview.net/pdf?id=HTcdrmGrZ0). Jonathan David Thomas, Andrea Silvi, Devdatt Dubhashi, Emil Carlsson, and Moa Johansson. AI for Math Workshop @ ICML, 2024.
-
-[Active preference learning for ordering items in- and out-of-sample](https://arxiv.org/pdf/2405.03059). Herman Bergström, Emil Carlsson ̊, Devdatt Dubhashi, Fredrik D. Johansson. Preprint 2024. The first two authors contributed equally. 
 
 [Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming).
 
