@@ -17,7 +17,7 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
 
-[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.
+[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://academic.oup.com/jole/advance-article/doi/10.1093/jole/lzae010/7907230?login=false). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Journal of Language Evolution, 2024. Earlier version in Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming). [Earlier version](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf)
 
 # Publications 
 
@@ -31,7 +31,7 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 [Learning Effcient Recursive Numeral Systems via Reinforcement Learning](https://openreview.net/pdf?id=HTcdrmGrZ0). Jonathan David Thomas, Andrea Silvi, Devdatt Dubhashi, Emil Carlsson, and Moa Johansson. AI for Math Workshop @ ICML, 2024.
 
-[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming).
+[Cultural evolution via iterated learning and communication explains effcient color naming systems](https://academic.oup.com/jole/advance-article/doi/10.1093/jole/lzae010/7907230?login=false). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Journal of Language Evolution, 2024. Earlier version in Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming). [Earlier version](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf)
 
 [Fast Treatment Personalization with Latent Bandits in Fixed-Confidence Pure Exploration](https://openreview.net/pdf?id=NNRIGE8bvF). Newton Mwai Kinyanjui, Emil Carlsson, and Fredrik D. Johansson. Transactions on Machine Learning Research (TMLR), 2023. [Code](https://github.com/newtonmwai/fast_treatment_personalization/tree/main/healthy_gym).
 
