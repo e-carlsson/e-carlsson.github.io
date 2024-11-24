@@ -13,7 +13,7 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 [Reinforcement Learning: Efficient Communication and Sample Efficient Learning](/Thesis_Emil_Carlsson_Camera_Ready.pdf)
 
 # Selected Publications
-[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024.
+[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024. [Code](https://github.com/HermanBergstrom/GURO).
 
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
 
