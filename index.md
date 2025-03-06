@@ -13,9 +13,10 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 [Reinforcement Learning: Efficient Communication and Sample Efficient Learning](/Thesis_Emil_Carlsson_Camera_Ready.pdf)
 
 # Selected Publications
-[Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024. [Code](https://github.com/HermanBergstrom/GURO).
+[Active preference learning for ordering items in- and out-of-sample](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8443219a991f068c34d9491ad68ffa94-Abstract-Conference.html). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024. [Code](https://github.com/HermanBergstrom/GURO).
 
-[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
+[Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf).
+Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
 
 [Cultural evolution via iterated learning and communication explains effcient color naming systems](https://academic.oup.com/jole/advance-article/doi/10.1093/jole/lzae010/7907230?login=false). Emil Carlsson, Devdatt Dubhashi, Terry Regier. Journal of Language Evolution, 2024. Earlier version in Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci) 45, 2023.[Code](https://github.com/e-carlsson/iterated-learning-color-naming). [Earlier version](https://escholarship.org/content/qt0mt0v4mt/qt0mt0v4mt_noSplash_22913c1ded846c889c3e72247a7752e8.pdf)
 
