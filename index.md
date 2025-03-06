@@ -21,6 +21,8 @@ For an updated list of my publications, see my [Google Scholar profile](https://
 
 # Publications 
 
+[Variational Quantum Optimization with Continuous Bandits](https://arxiv.org/pdf/2502.04021). Marc Wanner, Johan Jonasson, Emil Carlsson, Devdatt Dubhashi. Under Submission. 2025.
+
 [Active preference learning for ordering items in- and out-of-sample](https://openreview.net/pdf?id=PSLH5q7PFo). Herman Bergström, Emil Carlsson, Devdatt Dubhashi, Fredrik D. Johansson. First two authors contributed equally. NeurIPS 2024. [Code](https://github.com/HermanBergstrom/GURO).
 
 [Pure exploration in bandits with linear constraints](https://proceedings.mlr.press/v238/carlsson24a/carlsson24a.pdf). Emil Carlsson, Debabrota Basu, Fredrik D. Johansson, Devdatt Dubhashi. International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. [Code](https://github.com/e-carlsson/constraint-pure-exploration).
