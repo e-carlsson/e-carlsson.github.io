@@ -9,7 +9,7 @@ My name is Emil Carlsson and I currently work as a Research Scientist at Sleep C
 
 For an updated list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=VZhBQWQAAAAJ&hl=sv).
 
-You can reach me on this [email](emil.carlsson@sleepcycle.com).
+You can reach me on emil(dot)carlsson(at)sleepcycle(dot)com or on [LinkedIn](https://www.linkedin.com/in/e-carlsson/). 
 
 # PhD Thesis
 [Reinforcement Learning: Efficient Communication and Sample Efficient Learning](/Thesis_Emil_Carlsson_Camera_Ready.pdf)
