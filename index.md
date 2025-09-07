@@ -5,7 +5,9 @@ layout: default
 
 # About
 
-My name is Emil Carlsson and I currently work as a Research Scientist at Sleep Cycle. I hold a PhD in Computer Science from Chalmers University of Technology and I specialize in machine learning and decision-making under uncertainty, focusing on developing reliable data-driven decision-making systems. My primary research interest lies in reinforcement learning, a computational framework for decision-making under uncertainty.
+My name is Emil Carlsson and I currently work as a Research Scientist at Sleep Cycle where I focus on developing reliable data-driven decision-making systems.
+
+I hold a Ph.D. in Computer Science from Chalmers University of Technology and my primary research interests are reinforcement learning and bandit algorithms. I am particularly interested in developing techniques that improve the efficiency and effectiveness of sequential decision processes and I've published multiple research papers in leading AI/ML conferences, such as NeurIPS and AISTATS.
 
 For an updated list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=VZhBQWQAAAAJ&hl=sv).
 
